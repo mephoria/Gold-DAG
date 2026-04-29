@@ -1,0 +1,22 @@
+Fed Funds Rate Change → 2Y Treasury Yield Change
+Fed Funds Rate Change → 10Y Treasury Yield Change
+Fed Funds Rate Change → 10Y Real Yield Change
+10Y Real Yield Change → 10Y Treasury Yield Change
+5Y Breakeven Inflation Change → 10Y Treasury Yield Change
+10Y Treasury Yield Change → Term Spread Change
+2Y Treasury Yield Change → Term Spread Change
+10Y Treasury Yield Change → DXY Return
+EUR/USD Return → DXY Return
+Oil WTI Return → 5Y Breakeven Inflation Change
+Copper Return → HY Credit Spread Change
+10Y Real Yield Change → Gold Return
+5Y Breakeven Inflation Change → Gold Return
+DXY Return → Gold Return
+Oil WTI Return → Gold Return
+VIX Change → Gold Return
+HY Credit Spread Change → Gold Return
+S&P 500 Return → Gold Return
+Gold Return → GVZ Change
+Gold Return → GLD ETF Return
+Gold Return → GDX Gold Miners ETF Return
+Gold Return → Silver Return

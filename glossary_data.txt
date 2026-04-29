@@ -1,0 +1,27 @@
+Rates & Fixed Income
+1. 10Y Treasury Yield — The interest rate the US government pays to borrow money for 10 years. When this rises, bonds become more attractive relative to gold (which pays nothing), so gold tends to fall. It is the benchmark rate for the entire financial system.
+2. 2Y Treasury Yield — Same idea but for 2-year borrowing. The 2Y is more sensitive to what the Fed is expected to do soon, so it moves faster and more violently around Fed meetings and inflation surprises.
+3. 10Y Real Yield (TIPS) — This is the 10Y yield minus inflation expectations. It is the true opportunity cost of holding gold. A real yield of -1% means money is losing purchasing power in bonds, which makes gold very attractive. Most gold analysts consider this the single most important driver.
+4. 5Y Breakeven Inflation — The market's forecast for average inflation over the next 5 years, implied by the difference between regular Treasury yields and inflation-protected ones. When investors expect more inflation, gold demand rises because gold is seen as a store of value.
+5. Fed Funds Rate — The overnight interest rate set by the Federal Reserve. When the Fed raises rates aggressively, real yields rise, the dollar strengthens, and gold typically falls. When the Fed cuts, the opposite tends to happen.
+6. 10Y–2Y Term Spread — The gap between long-term and short-term borrowing costs. When this inverts (goes negative), it signals recession fears, which can be both negative for gold (risk-off selling) and positive (safe-haven buying). The direction of the spread matters more than the level on a daily basis.
+
+Dollar & FX
+1. DXY USD Index — A weighted basket measuring the dollar against six major currencies (euro, yen, pound, etc.). Gold is priced in dollars globally, so a stronger dollar makes gold more expensive for foreign buyers, suppressing demand. DXY and gold have one of the strongest daily inverse relationships of any two financial variables.
+2. EUR/USD — The euro vs the dollar. Since the euro is the largest component of DXY (~58%), EUR/USD is essentially the mirror image of DXY. It is included separately because sometimes EUR-specific news (ECB decisions, eurozone data) drives EUR/USD without moving other dollar pairs.
+
+Commodity Proxies
+1. Oil (WTI) — West Texas Intermediate crude price. Oil and gold share some inflation-hedge characteristics and both respond to geopolitical risk. A big oil spike often signals supply disruption or war risk, which also supports gold. They do not always move together but share common macro drivers.
+2. Copper — Known as "Dr. Copper" because it is used in so much industrial activity that its price is a proxy for global growth expectations. When copper rises, markets expect strong growth, which is typically risk-on and mildly negative for gold's safe-haven appeal. When copper falls sharply, it signals slowdown fears.
+
+Risk & Volatility
+1. VIX — The "fear index." It measures how much volatility options traders expect in the S&P 500 over the next 30 days. When VIX spikes, investors panic and often rush into gold as a safe haven. It is one of the fastest-moving same-day signals available.
+2. CBOE Gold Volatility (GVZ) — The VIX equivalent but specifically for gold (based on GLD options). It tells you how much uncertainty exists in gold itself, not just equities. A rising GVZ can signal that gold traders are hedging against a big move in either direction.
+3. Credit Spread (HY) — The extra yield investors demand to hold high-yield (junk) corporate bonds instead of safe Treasuries. When this spread widens, it means credit stress is rising — companies may struggle to repay debt. Credit stress is a classic trigger for gold safe-haven demand.
+4. TED Spread — The difference between what banks charge each other to borrow (Libor) versus what the US government pays (T-bill rate). A rising TED spread signals banks are nervous about lending to each other — a banking stress indicator. It was a key signal during the 2008 crisis. Note: FRED discontinued this series in 2023.
+
+Equities & Risk-On/Off
+1. S&P 500 — The main US equity index. On most days, gold and equities move in opposite directions — equities up means risk appetite is high and gold is less needed. However, in extreme stress events (2020 crash, 2008) they can sell off together as investors raise cash.
+2. Silver — Gold's closest relative in the precious metals complex. Silver has both monetary properties (moves with gold) and industrial properties (moves with copper/growth). The gold-silver ratio is a classic relative value signal. Silver often amplifies gold's moves.
+3. GLD ETF — The world's largest gold ETF. Its price tracks spot gold almost exactly. It is included here primarily for lagged signals — yesterday's GLD volume or return can carry information about institutional positioning and momentum into the next day.
+4. GDX (Gold Miners ETF) — Holds shares of major gold mining companies like Barrick and Newmont. Miners are leveraged to the gold price (their profits amplify with every dollar gold moves) but also carry equity risk, cost risk, and management risk. GDX often leads or exaggerates gold spot moves, making it a useful signal for the direction and strength of gold price pressure.
