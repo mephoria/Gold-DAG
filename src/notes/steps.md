@@ -9,6 +9,3 @@ For each edge the LLM proposes, run a quick regression to check if the relations
 
 Step 5 — Build the causal factor model
 Fit a Lasso regression using only the DAG-selected features. This is your causal model of gold returns.
-
-Step 6 — Layer 2 prediction model
-On top of the causal model, build the directional signal — the fair value residual, regime score, and up/down classifier we discussed earlier.

@@ -76,6 +76,6 @@ drop_cols = price_cols + level_cols + ["vix", "gvz", "term_spread"]
 df_clean = df.drop(columns=drop_cols).dropna()
 
 # ── 8. Save ───────────────────────────────────────────────────
-df_clean.to_csv("gold_causal_data.csv")
+df_clean.to_csv("src/data/gold_causal_data.csv")
 print(df_clean.shape)
 print(df_clean.head())
